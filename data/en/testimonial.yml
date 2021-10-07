@@ -4,23 +4,15 @@ testimonial:
   bg_image : images/backgrounds/bg-testimonial.jpg
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
-    # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
       
     # testimonial item loop
-    - name : Mark Dinn
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Megan Jordan, Celebrant
+      content : “Thank you for designing the most incredible website for me. It’s sophisticated, easy to navigate and I’m already getting loads of new leads. Every step of the way Jane was communicative, patient and flexible. She offered great ideas about how to improve the lay out, drive traffic and held my hand through the whole thing. She’s an awesome designer and a stand out human being. Make sure you consider her for your next website project!”
       
     # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Miguel Bernardo, The Silver
+      content : "Great help for my startup business. Incredibly responsive, fast and supportive! Thank you Jane for the awesome incentive!"
+      
+    # testimonial item loop
+    - name : Kheong Yap, Natural Comfort
+      content : "I have known Jane for a long time and she has always been honest, insightful and hard working. I use her for SEO and we are rebuilding my website together with full E Commerce functionality to help protect my business from government lockdowns."

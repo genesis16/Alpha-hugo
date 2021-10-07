@@ -1,0 +1,30 @@
+################################# Cause ##################################
+cause:
+  enable : true
+  title : A WordPress agency that knows good design, navigation and great copy are paramount to growing web traffic.
+  main_cause:
+    - title : 2.6 Billion
+      content : Is the amount of lost revenue each year due to websites loading too slowly. How many sales have you lost in the past year?
+
+    - title : 0.5 seconds
+      content : Most users have made a judgement on your business in the first 0.5 seconds of viewing your website.Thats a very short time to make the right impression.
+
+    - title : 88% will bounce
+      content : If they have a poor user experience or encounter bad design. And research shows those client’s don’t return, no matter how many google ads you run. Does your site need a content or design overhaul? Click the button to the right to get a free website analysis and 20 minute zoom meeting.
+
+  cause :
+    # cause loop
+    - name :  First impressions based on design
+      percent : 94%
+      
+    # cause loop
+    - name :  Won’t return when design is poor
+      percent : 88%
+      
+    # cause loop
+    - name :  Value accessibility
+      percent : 63%
+      
+    - name :  Purchase on devices
+      percent : 64%
+      

@@ -1,25 +1,30 @@
 ################################# funfacts ##################################
 funfacts:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   counter_item:
     # counter item loop
-    - title : "Happy Clients"
-      icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
-      count : "320"
+    - title : "Poor navigation"
+      icon : "ti-face-sad" # themify icon pack : https://themify.me/themify-icons
+      count : "62"
     
     # counter item loop
-    - title : "Projects completed"
+    - title : "Lack relevant content"
+      icon : "ti-thumb-down" # themify icon pack : https://themify.me/themify-icons
+      count : "73"
+    
+    # counter item loop
+    - title : "No XML sitemap"
       icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
-      count : "350"
+      count : "55"
     
     # counter item loop
-    - title : "Positive feedback"
-      icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
-      count : "158"
+    - title : "Slow web hosting"
+      icon : "ti-reload" # themify icon pack : https://themify.me/themify-icons
+      count : "51"
     
     # counter item loop
-    - title : "Cups of Coffee"
-      icon : "ti-gift" # themify icon pack : https://themify.me/themify-icons
-      count : "250"
+    - title : "No proxy servers"
+      icon : "ti-link" # themify icon pack : https://themify.me/themify-icons
+      count : "62"

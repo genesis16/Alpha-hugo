@@ -1,27 +1,22 @@
 ############################# feature ###################################
 feature:
-  enable : true
+  enable : false
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : A WordPress agency that knows good design, navigation and great copy are paramount to growing web traffic.
+  content : ""
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : 2.6 Billion
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Is the amount of lost revenue each year due to websites loading too slowly. How many sales have you lost in the past year?
       
       # feature item loop
-    - title : Easy Customization
+    - title : 0.5 seconds
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Most users have made a judgement on your business in the first 0.5 seconds of viewing your website. Thats a very short time to make the right impression.
 
       # feature item loop
-    - title : SEO Optimized
+    - title : 88% will bounce
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : If they have a poor user experience or encounter bad design. And research shows those client’s don’t return, no matter how many google ads you run. Does your site need a content or design overhaul? Click the button to the right to get a free website analysis and 20 minute zoom meeting.

@@ -1,0 +1,32 @@
+################################# Problems ##################################
+problems:
+  enable : true
+  title : A specialist WordPress agency that analyses why your traffic is low, and shows you how to fix it.
+  main_problem:
+    - title : 33%
+      content : Of people will bounce for every additional second your site takes to load. If you are spending a small fortune on google ads, and getting no return- your site speed is a good starting point. As a WordPress agency we can fix this for you.
+
+    - title : 47%
+      content : Expect your site to load in under 2 seconds. That requires quality hosting, file and image optimisation, minimal plugins and no page builders.
+
+    - title : 88% will bounce
+      content : If your site takes longer than 3 seconds to load. The average desktop loading time is 10.3 seconds! This is a huge opportunity to speed up your site and retain those customers.
+  problem :
+    # problem loop
+    - name :  Poor navigation
+      percent : 62%
+      
+    # problem loop
+    - name :  Lack relevant content
+      percent : 73%
+      
+    # problem loop
+    - name :  No XML sitemap
+      percent : 55%
+      
+    - name :  Slow web hosting
+      percent : 51%
+      
+    # problem loop
+    - name :  No proxy servers
+      percent : 75%

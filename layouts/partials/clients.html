@@ -1,0 +1,38 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.clients.clients.enable }}
+{{ with $data.clients.clients }}
+{{"<!-- clients Section -->" | safeHTML}}
+<section class="portfolio section" id="clients">
+	<div class="container">
+		<div class="row ">
+			<div class="col-xl-12">
+				{{"<!-- section title -->" | safeHTML}}
+				<div class="title text-center">
+					<h2><span class="color">{{ .title }}</span></h2>
+					<div class="border-meghna"></div>
+				</div>
+				{{"<!-- /section title -->" | safeHTML}}
+			</div>
+		</div>
+
+		<div class="row shuffle-wrapper justify-content-center">
+			{{"<!-- clients item -->" | safeHTML}}
+			{{ range .clients }}
+			<div class="col-lg-4 col-md-6 shuffle-item">
+				<div class="mb-4">
+					<div class="caption">
+						<a href="{{ .link }}" data-lightbox="image-1">
+							<img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .link }}">
+						</a>
+						<p>{{ .content | markdownify }}</p>
+					</div>
+				</div>
+			</div>
+			{{ end }}
+		</div>
+	</div>
+</section>
+{{"<!-- /Portfolio -->" | safeHTML}}
+{{ end }}
+{{ end }}
