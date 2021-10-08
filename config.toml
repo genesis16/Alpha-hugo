@@ -57,23 +57,23 @@ url = "/about"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "faq"
-url = "/faq"
+name = "services"
+url = "/service"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "get in touch"
-url = "/contact"
+name = "faq"
+url = "/faq"
 weight = 5
+
+[[Languages.en.menu.main]]
+name = "get in touch"
+url = "/get-in-touch"
+weight = 6
 
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 6
-
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
 weight = 7
 
 ############################# Default Parameters ##########################
