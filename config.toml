@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://alphaomegadigital.github.io/megha-github"
+baseURL = "http://alphaomegadigital.github.io"
 title = "Alpha omega digital"
 theme = "meghna"
 # post pagination
@@ -42,28 +42,28 @@ link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "about"
-url = "#about"
+name = "portfolio"
+url = "/portfolio"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
-url = "#services"
+name = "blog"
+url = "/blog"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "portfolio"
-url = "#portfolio"
+name = "about"
+url = "/about"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "team"
-url = "#team"
+name = "faq"
+url = "/faq"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
+name = "get in touch"
+url = "/contact"
 weight = 5
 
 [[Languages.en.menu.main]]
@@ -83,7 +83,7 @@ weight = 8
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/1925_logo-3.svg"
 # Meta data
 description = "Responsive Multipurpose Parallax Hugo Template"
 author = "Themefisher"
@@ -95,7 +95,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = false
-preloader = "images/logo.png"
+preloader = "images/1925_logo-3.svg"
 
 # cookies
 [params.cookies]
@@ -113,28 +113,15 @@ map_marker = "images/marker.png"
 ############################# social icons ##########################
 [[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/alphaomegadigitalAU/"
 
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/alphaodigital"
 
 [[params.social]]
-icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
+icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.instagram.com/alphaomegadigitalau/"
 
 ################################ English Language ########################
 [Languages.en]

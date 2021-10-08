@@ -1,76 +1,53 @@
 #################################### portfolio ###############################
 portfolio:
-  enable : false
-  title : Our Works
+  enable : true
+  title : Portfolio
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
-      
+    - name : Public Sector Network
+      image : images/portfolio/team-pic2-768x432.jpeg
+      categories : ["maintenance", "wordpress"]
+      content :
+      link : "/public-sector-network"
+
     # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
-      
+    - name : Megan Jordan Celebrant
+      image : images/portfolio/Contact-Me-Header-Image-1200x800.jpeg
+      categories : ["web project", "wordpress"]
+      content :
+      link : "/megan-jordan"
+
     # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
+    - name : Vinnies Youth
+      image : images/portfolio/VINNIES-YOUTH-BANNER-2-1200x900.jpeg
+      categories : ["web project", "wordpress"]
+      content :
+      link : "/vinnies-youth"
+
     # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
+    - name : Elissa Hill
+      image : images/portfolio/Elissa-Hill-Copywriter-Editor-682x1024-1.jpeg
+      categories : ["product"]
+      content :
+      link : "/elissa-hill"
+
     # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
+    - name : Bridge Kids
+      image : images/portfolio/place-1024x415-1.jpg
+      categories : ["maintenance", "wordpress"]
+      content :
+      link : "/bridge-kids"
+
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
+    - name : Termite Catchers
+      image : images/portfolio/Termite-Catchers-Homes-1024x373-1.jpeg
+      categories : ["web project", "wordpress"]
+      content :
+      link : "/termite-catchers"
+
     # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+    - name : Luca Miraglia Foundation
+      image : images/portfolio/LMF-fun-run.jpeg
+      categories : ["web project", "wordpress"]
+      content :
+      link : "/lmf-fun-run"
