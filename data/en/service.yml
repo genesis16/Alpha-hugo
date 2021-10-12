@@ -1,16 +1,18 @@
-################################# Service #################################
+################################# Services ##################################
 service:
   enable : true
-  title : SERVICE OFFERING
-  service_item :
-    # service item loop
-    - name : WordPress Development
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+  title : A specialist WordPress agency that analyses why your traffic is low, and shows you how to fix it.
+  main_service:
+    - title : Alpha Omega Digital is a design-driven agency that builds custom WordPress sites for SME’s.
+      content : As a Gutenberg development specialist, I build fast and easy to use WordPress websites. Alpha Omega Digital prides itself on delivering excellent value for money, whilst providing high quality WordPress sites that load in under 3 seconds. Fast, SEO and user friendly. The sites I build can be maintained by anyone, even if you are not technically minded.
+
+  service :
+    - name :  WordPress Development
+      percent : 96%
       
-    # service item loop
-    - name : Digital marketing
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+    - name :  Digital marketing
+      percent : 74%
       
-    # service item loop
-    - name : SEO
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+    - name :  SEO
+      percent : 86%
+      

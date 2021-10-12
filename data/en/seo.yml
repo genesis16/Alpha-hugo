@@ -1,0 +1,22 @@
+################################# seo ##################################
+seo:
+  enable : true
+  title : It’s high time you climb out of the SEO abyss, and get some real help, and generate real results
+  content : SEO What? I know how you feel because when I started in web dev I quickly realised how deeply integrated SEO is with development. So I jumped deep into the rabbit hole, and learned everything I could about SEO from boosting your domain authority, building backlinks, content marketing, writing web content for SEO, keywords, GSC errors and so on. Improving your visibility online is something we take very seriously. SEO no longer has to be the missing chink in your marketing chain. Let’s build a 12 month strategy to enhance your organic search, and measure it against custom KPI’s so we know we are doing a great job.
+
+  info_item :
+    - title :  Happy clients
+      subtitle : STRONG RELATIONSHIPS
+      number : 26
+
+    - title :  Project finished
+      subtitle : CREATIVE & UNIQUE
+      number : 39
+
+    - title :  Years experience
+      subtitle : PROFESSIONAL VISION
+      number : 15+
+
+    - title :  Cups of coffee
+      subtitle : HONORABLE MENTION
+      number : 925

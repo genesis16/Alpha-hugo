@@ -1,0 +1,11 @@
+################################# Marketing #########################
+marketing:
+  enable : true
+  bg_image : images/backgrounds/home-agency-4-1.jpg
+  marketing_item :
+      
+    # item loop
+    - title : Full transparency digital marketing.
+      subtitle : DIGITAL MARKETING
+      content : A lot of business owners are spending money on google ads and paid social, with no strategy in place. Together, we’ll create a tailored digital marketing strategy with a defined audience to make sure you are allocating your spend correctly, with no wastage. We will create content that educates and attracts visitors to your site, and promote that content to further its reach. What is full transparency? You will know exactly how your service funds are spent, and how effective your strategy has been.
+      
