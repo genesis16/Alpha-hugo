@@ -71,11 +71,6 @@ name = "get in touch"
 url = "/get-in-touch"
 weight = 6
 
-[[Languages.en.menu.main]]
-name = "contact"
-url = "#contact"
-weight = 7
-
 ############################# Default Parameters ##########################
 [params]
 logo = "images/1925_logo-3.svg"
