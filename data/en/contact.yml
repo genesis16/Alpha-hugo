@@ -1,28 +1,25 @@
 ############################## Contact #############################
 contact:
-  enable : false
+  enable : true
   title : Contact Us
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  subtitle : Drop me a line or say hello
+  content : My greatest passion is to help business owners increase their web presence and traffic. Do you think we’d be a good fit?
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "ELTHAM, VIC, AUSTRALIA - WE ARE A FULLY REMOTE AGENCY"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
-      
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
+      info : "Phone: +61404094234"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: ALPHAOMEGADIGITALAU@GMAIL.COM"
 
 
   # Contact form
   contact_form:
-    enable : true
+    enable : false
     form_action : "#" #contact form works with https://formspree.io
     name : "Your Name"
     email : "Your Email"
