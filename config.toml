@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://alphaomegadigital.github.io"
+baseURL = "https://naughty-bassi-d57442.netlify.app/"
 title = "Alpha omega digital"
 theme = "meghna"
 # post pagination
